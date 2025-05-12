@@ -4,3 +4,4 @@
 vim.api.nvim_set_hl(0, "VisualNonText", { fg = "#5D5F71", bg = "#24282d" })
 
 vim.opt.colorcolumn = "80"
+vim.lsp.inlay_hint.enable(false)
