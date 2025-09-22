@@ -2,7 +2,7 @@ return {
   "MunifTanjim/eslint.nvim",
   enabled = false,
   dependencies = {
-    "jose-elias-alvarez/null-ls.nvim",
+    "nvimtools/none-ls.nvim",
     "neovim/nvim-lspconfig",
   },
   event = "BufRead",
